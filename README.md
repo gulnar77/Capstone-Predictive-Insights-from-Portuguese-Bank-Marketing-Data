@@ -1,4 +1,4 @@
-# Capstone_Two
+# Capstone: Predictive Insights from Portuguese Bank Marketing Data 
 
 **Portuguese Bank Marketing Campaign**
 
